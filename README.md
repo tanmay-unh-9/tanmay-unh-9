@@ -1,4 +1,4 @@
-## Research Profile
+## Business Solutions & Research
 
 <!--
 **tanmay-unh-9/tanmay-unh-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
